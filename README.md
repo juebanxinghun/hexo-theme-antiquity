@@ -99,7 +99,8 @@ blogroll:
 ![img caption](img url)
 
 {% fancybox img_url [img_thumbnail] [img_caption] %}
-星魂使用心得：
+
+## 星魂使用心得：
 1、如何去掉“阅读有风险 参考需谨慎”字样：
   在source/css文件夹中找到sytle.css，打开，可查找到“阅读有风险 参考需谨慎”，删除或者更改即可
 ```
